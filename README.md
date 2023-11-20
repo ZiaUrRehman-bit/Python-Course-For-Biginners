@@ -1,7 +1,6 @@
 # Python-Course-For-Biginners
 
-1.	Lab Task 01: NumPy is a fundamental tool for AI because it provides the foundation for efficient data handling, mathematical operations, and integration with AI frameworks. Its ability to perform fast, vectorized operations on large datasets makes it indispensable for AI practitioners and researchers.
-Practice the all examples of numpy library mentioned in lab 02.
+1.	Lab Task 01: NumPy is a fundamental tool for AI because it provides the foundation for efficient data handling, mathematical operations, and integration with AI frameworks. Its ability to perform fast, vectorized operations on large datasets makes it indispensable for AI practitioners and researchers. Practice the all examples of numpy library mentioned in lab 02.
 
 [CLO-01, PLO-02, P-3(Guided Response), Rubric (Coding)]
 
